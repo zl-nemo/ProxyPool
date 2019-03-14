@@ -28,7 +28,7 @@ PASSWORD为Redis密码，如果为空，则设置为None
 pip3 install -r requirements.txt
 ```
 
-#### 打开代理池和API
+#### 打开代理池
 
 ```
 python3 run.py
